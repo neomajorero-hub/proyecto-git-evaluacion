@@ -1,5 +1,5 @@
-Manu 
+# Proyecto de Colaboración Git
+Este es un manual sencillo creado por Manu y [Nombre de tu compañero].
 
-15/12/2025
-
-# Proyecto Git Repositorio de práctica para aprender Git y GitHub.
+## Secciones
+1. Introducción (Editado por Manu)
