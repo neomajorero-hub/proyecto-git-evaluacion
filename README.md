@@ -1,5 +1,11 @@
-Manu 
+# Proyecto Git Evaluación
+Este proyecto es una práctica de gestión de ramas y resolución de conflictos.
 
-15/12/2025
+## Estructura
+- Rama **main**: Versión estable.
+- Rama **feature-manu**: Desarrollo de nuevas funcionalidades.
 
-# Proyecto Git Repositorio de práctica para aprender Git y GitHub.
+## Cómo contribuir
+1. Haz un fork o clona el repo.
+2. Crea una rama para tu mejora.
+3. Abre un Pull Request.
